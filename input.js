@@ -21,6 +21,10 @@ const setupInput = function(conn) {
       connection.write("Move: down");
     } else if (key === 'd') {
       connection.write("Move: right");
+    } else if (key === 'm') {
+      connection.write("Say: Outta my way!");
+    } else if (key === 'e') {
+      connection.write("Say: Eat my dust!");
     }
   });
   return stdin;
