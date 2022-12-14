@@ -1,6 +1,7 @@
 const IP = 'localhost';
 const PORT = 50541;
 
+//Object to map keys to moves
 const moves = {
   w: "Move: up",
   a: "Move: left",
