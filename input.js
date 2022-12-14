@@ -16,7 +16,7 @@ const handleUserInput = function(key) {
   connection.write(moves[key]);
 };
 /**
- * 
+ *
  * @param {object} conn object that lets me interact with the server
  * @returns {stdin} stdin object that allows listening for and reacting to keyboard input
  */
