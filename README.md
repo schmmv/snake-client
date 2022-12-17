@@ -8,8 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![Original Snake Game Being completed](https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif?20130409155542)
-!["screenshot description"](#)
+!["Our Version Screenshot"](./snek.png)
 
 ## Getting Started
 
