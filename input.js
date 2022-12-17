@@ -17,7 +17,7 @@ const handleUserInput = function(key) {
 };
 /**
  *
- * @param {object} conn object that lets me interact with the server
+ * @param {object} conn object that lets client interact with the server
  * @returns {stdin} stdin object that allows listening for and reacting to keyboard input
  */
 const setupInput = function(conn) {
